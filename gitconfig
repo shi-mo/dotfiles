@@ -6,3 +6,4 @@
 	lo = log --pretty=oneline
 	ci = commit
 	cm = commit -m
+	co = checkout
