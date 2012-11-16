@@ -1,0 +1,8 @@
+[user]
+	name = shi-mo
+	email = yoshifumi.shimono@gmail.com
+[alias]
+	st = status
+	lo = log --pretty=oneline
+	ci = commit
+	cm = commit -m
